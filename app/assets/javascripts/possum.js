@@ -1,3 +1,6 @@
+//= require handlebars
+//= require_tree .
+
 (function(){
 
   var opossumProto = Object.create(HTMLElement.prototype);
