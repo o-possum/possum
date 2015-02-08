@@ -14,6 +14,13 @@ application.js
 ```
 
 ### TODOs
-- Tests
-- Refactor out JS to npm/bower?
-- features!
+- tests
+- `possum:ready` on document when all elements ready
+- remove jQuery dependency
+- refactor out js to own library
+- add inline varible syntax for non-fragments
+- add x-tags for browser support
+- add examples
+  - plain javascript
+  - polymer
+  - angular
