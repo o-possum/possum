@@ -17,4 +17,5 @@ Gem::Specification.new do |s|
   s.files = Dir['{app,lib}/**/*', 'MIT-LICENSE', 'Rakefile']
   s.add_dependency 'rails', '~> 4.2.0'
   s.add_dependency 'rails-assets-handlebars', '~> 2.0.0'
+  s.add_dependency 'rails-assets-webcomponentsjs', '~> 0.5.4'
 end

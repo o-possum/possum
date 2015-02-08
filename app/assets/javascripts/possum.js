@@ -1,4 +1,5 @@
 //= require handlebars
+//= require webcomponentsjs
 //= require_tree .
 
 (function(){
