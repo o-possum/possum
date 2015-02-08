@@ -1,2 +1,1 @@
-module Possum
-end
+require 'possum/engine'
