@@ -7,7 +7,7 @@ Gemfile
 source 'https://rails-assets.org'
 gem 'rails-assets-handlebars', '~> 2.0.0'
 gem 'rails-assets-webcomponentsjs', '~> 0.5.4'
-gem 'possum', '~> 0.1.0'
+gem 'possum', '~> 0.1'
 ```
 
 application.js

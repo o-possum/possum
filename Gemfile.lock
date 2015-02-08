@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    possum (0.0.1)
+    possum (0.1.1)
       rails (~> 4.2.0)
       rails-assets-handlebars (~> 2.0.0)
       rails-assets-webcomponentsjs (~> 0.5.4)
