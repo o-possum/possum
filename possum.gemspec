@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Possum::VERSION
   s.authors     = ['Zane Wolfgang Pickett']
   s.email       = ['Zane.Wolfgang.Pickett@Gmail.com']
-  s.homepage    = 'http://www.github.com/sirwolfgang/possum'
-  s.summary     = 'Summary of Possum.'
-  s.description = 'Description of Possum.'
+  s.homepage    = 'http://www.possum.io'
+  s.summary     = 'A light weight javascript middleware that seperates your static content from your dynamic content.'
+  s.description = 'A light weight javascript middleware that seperates your static content from your dynamic content.'
   s.license     = 'MIT'
 
   s.files = Dir['{app,lib}/**/*', 'MIT-LICENSE', 'Rakefile']
